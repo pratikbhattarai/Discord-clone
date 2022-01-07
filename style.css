@@ -1,0 +1,95 @@
+
+
+body{
+    background: url("https://img.wallpapersafari.com/desktop/1920/1080/4/61/ypDTNV.jpg");
+    background-size: cover; 
+}  
+.container{
+    height: 425px;
+    width: 875px;
+   background-color: #333333;
+   position: relative;
+   margin-top: 10%;
+   margin-left: 18%;
+   border-radius: 5px;
+   display: flex;
+   column-gap: 110px;
+   
+}
+ 
+   
+h1{
+    margin-left: 70px;
+   position: relative;
+   
+}
+
+input{
+    background: #3321;
+    border:1px solid grey;
+    width:400px;
+    height: 40px;
+    margin-left: 20px;
+    border-radius: 3px;
+    
+}
+
+#input1{
+    position: relative;
+    top: 30px;
+}
+
+#input2{
+    position: relative;
+    top:70px;
+}
+
+#para2{
+    position: absolute;
+}
+
+#para3{
+    position: absolute;
+    margin-top: 40px;
+}
+
+
+span{
+    color: grey;
+    
+}
+
+#para4{
+    color: rgb(78, 78, 245);
+    position: relative;
+    top: 100px;
+    left: 20px;
+
+}
+
+a{
+    position: relative;
+    top: 75px;
+    left: 20px;
+}
+
+button{
+    position: relative;
+    top: 90px;
+    left: 20px;
+    width: 400px;
+}
+
+
+#child-element2{
+   margin-top: 70px;
+   margin-left:1px ;
+   color: grey;
+}
+
+img{
+    height: 175px;
+    margin-left: 40px;
+    border-radius: 5px;
+    
+}
